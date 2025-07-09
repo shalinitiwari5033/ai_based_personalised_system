@@ -1,0 +1,366 @@
+{
+  "Some Basic Concepts of Chemistry": {
+    "video": "https://www.youtube.com/watch?v=1t9Dq4wyhBw",
+    "important_questions": [
+      "Define mole and molar mass. Calculate the number of molecules in 5 moles of CO.",
+      "Differentiate between empirical formula and molecular formula.",
+      "A sample of  CaCO₃ contains 10g. Calculate number of Ca²⁺ ions."
+    ]
+  },
+  "Structure of Atom": {
+    "video": "https://www.youtube.com/watch?v=S7uLXHDTamo",
+    "important_questions": [
+      "Derive the relationship between energy and frequency from Planck's theory.",
+      "Explain Bohr  postulates. Derive the expression for radius of nth orbit in hydrogen atom.",
+      "Write quantum numbers of the last electron of Chromium (Z = 24)."
+    ]
+  },
+  "Classification of Elements and Periodicity": {
+    "video": "https://www.youtube.com/watch?v=I55bzdbtY2k",
+    "important_questions": [
+      "State modern periodic law. How does atomic size vary across a period and down a group?",
+      "Explain trends in ionization energy and electron affinity.",
+      "Why is IE of nitrogen greater than that of oxygen?"
+    ]
+  },
+  "Chemical Bonding and Molecular Structure": {
+    "video": "https://www.youtube.com/watch?v=qle-q0CxtJk",
+    "important_questions": [
+      "Explain the concept of hybridization with examples of sp³ and sp².",
+      "Draw the Lewis structure of H₂O and NH₃. Explain their shapes using VSEPR theory.",
+      "Define dipole moment. Why CO₂  has zero dipole moment?"
+    ]
+  },
+  "States of Matter: Gases and Liquids": {
+    "video": "https://www.youtube.com/watch?v=H4h4vsJ9it0&list=PLF_7kfnwLFCEzJZWNHb_K9tFC78F0AXOl",
+    "important_questions": [
+      "Derive the ideal gas equation. State its limitations.",
+      "What is van der Waals equation? How it corrects the ideal gas behavior?",
+      "Explain Boyle's Law and Charles Law with graphs."
+    ]
+  },
+  "Thermodynamics": {
+    "video": "https://www.youtube.com/watch?v=2WyUPGIxKgk",
+    "important_questions": [
+      "State first law of thermodynamics. Derive  ∆U = q - w.",
+      "Differentiate between exothermic and endothermic reactions with examples.",
+      "Define enthalpy, entropy, and Gibbs free energy."
+    ]
+  },
+  "Equilibrium": {
+    "video": "https://www.youtube.com/watch?v=sCUgeC5ACv8&list=PLF_7kfnwLFCGNdqR8jaKSpxiiR83vM3_r",
+    "important_questions": [
+      "Derive the expression for Kc and Kp. Explain their relationship.",
+      "What is Le Chateliers Principle? Apply it to formation of ammonia.",
+      "Define pH. Calculate pH of 0.01M HCl solution."
+    ]
+  },
+  "Redox Reactions": {
+    "video": "https://www.youtube.com/watch?v=w6GaFqnhD80",
+    "important_questions": [
+      "Define oxidation and reduction in terms of electron transfer.",
+      "Balance the redox reaction:  Cr₂O₇²⁻ + Fe²⁺ → Cr³⁺ + Fe³⁺ in acidic medium.",
+      "What is disproportionation reaction? Give example."
+    ]
+  },
+  "Hydrogen": {
+    "video": "https://www.youtube.com/watch?v=Ulvaue5tvpo&list=PLF_7kfnwLFCFafPxXURysev32W3lV3e9D",
+    "important_questions": [
+      "Compare properties of  H₂O and H₂O₂.",
+      "What are hydrides? Classify them with examples.",
+      "Write uses of heavy water."
+    ]
+  },
+  "The s-Block Element": {
+    "video": "https://www.youtube.com/watch?v=Vug41JGdlh8&list=PLF_7kfnwLFCFeiLUgeI3yOXm6xBiuFu-0",
+    "important_questions": [
+      "Compare physical and chemical properties of alkali and alkaline earth metals.",
+      "Explain the anomalous behavior of lithium.",
+      "Why BeCl₂ is covalent while CaCl₂ is ionic?"
+    ]
+  },
+  "The p-Block Element": {
+    "video": "https://www.youtube.com/watch?v=M3nlpPQQELU",
+    "important_questions": [
+      "Discuss trends in physical and chemical properties of group 13 elements.",
+      "Why B does not form  B³⁺  ions easily?",
+      "Explain inert pair effect with examples."
+    ]
+  },
+  "Organic Chemistry Basic Principles": {
+    "video": "https://www.youtube.com/watch?v=tnsvWiSTPJ8",
+    "important_questions": [
+      "Define electrophile and nucleophile with examples.",
+      "What are the types of organic reactions? Give one example of each.",
+      "Explain  inductive, resonance and hyperconjugation effects."
+    ]
+  },
+  "Hydrocarbons": {
+    "video": "https://www.youtube.com/watch?v=sIBqmtI82c0&list=PLF_7kfnwLFCFqvbAsdBsAtL7A7CGggSZX",
+    "important_questions": [
+      "What is Markovnikov’s rule? Explain with an example.",
+      "Write IUPAC names and structures of isomers of C₄H₁₀.",
+      "Differentiate between alkanes, alkenes and alkynes."
+    ]
+  },
+  "Environmental Chemistry": {
+    "video": "https://www.youtube.com/watch?v=dIQfjyOc7H0",
+    "important_questions": [
+      "What are greenhouse gases? Write their effects.",
+      "Define BOD and COD.",
+      "What are the sources and effects of acid rain?"
+    ]
+  },
+
+  "The Solid State":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=8_Y2--1glG0",
+    "Important_Questions": [
+     "Explain the different types of unit cells with diagrams.",
+     "What is packing efficiency? Calculate for FCC and BCC.",
+     "Differentiate between hexagonal close packing and cubic close packing."
+      ]
+    },
+  "Solutions":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=-I-nmpoAx1c",
+   "Important_Questions": [
+     "Explain Raoult’s law and its application.",
+     "Derive the relation between relative lowering of vapour pressure and molar mass.",
+     "Discuss the abnormal molar masses and van't Hoff factor."
+      ]
+    },
+  "Electrochemistry":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=tz2UgCVo4Lg",
+    "Important_Questions": [
+     "Explain the Nernst equation and its significance.",
+     "Define standard electrode potential and its applications.",
+     "Differentiate between electrolytic and galvanic cells."
+      ]
+    },
+ "Chemical Kinetics":{
+    "YouTube_Link": "https://www.youtube.com/watch?v=r4RS0yx62_M",
+   "Important_Questions": [
+     "Explain the order and molecularity of a reaction.",
+     "Derive integrated rate equations for first and second order reactions.",
+     "Discuss the Arrhenius equation and activation energy."
+      ]
+    },
+ "Surface Chemistry":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=r7WQb4lgI8E",
+    "Important_Questions": [
+      "Explain the types of adsorption with examples.",
+     "What are emulsions? Give their types and uses.",
+     "Discuss the mechanism of enzyme catalysis."
+      ]
+    },
+ "General Principles and Processes of Isolation of Elements":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=2rOSV3ciAKk",
+   "Important_Questions": [
+     "Describe the extraction of aluminum from bauxite ore.",
+     "Explain the froth flotation process with diagrams.",
+      "What is zone refining? State its significance."
+      ]
+    },
+ "The p-Block Elements":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=fHH7URo1V1I",
+   "Important_Questions": [
+     "Discuss the anomalous behaviour of nitrogen.",
+      "Explain the structure of PCl5 and SF6.",
+      "Write the preparation and properties of ammonia and nitric acid."
+      ]
+    },
+ "The d- and f-Block Elements":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=GEe5i9xRr7U",
+   "Important_Questions": [
+      "Explain the lanthanide contraction and its consequences.",
+      "Discuss the oxidation states of transition elements.",
+      "What are interstitial compounds? Give examples."
+      ]
+    },
+ "Coordination Compounds":{
+  "YouTube_Link": "https://www.youtube.com/watch?v=1ez23g-sy08",
+   "Important_Questions": [
+     "Explain Werner’s theory of coordination compounds.",
+     "Discuss the isomerism shown by coordination compounds.",
+     "What is crystal field theory? Discuss for octahedral complexes."
+      ]
+    },
+ "Haloalkanes and Haloarenes":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=sD5W4v7n0Y0",
+   "Important_Questions": [
+     "Explain the SN1 and SN2 mechanisms with examples.",
+     "Discuss the preparation of haloalkanes from alcohols.",
+     "What are the environmental effects of CFCs?"
+      ]
+    },
+  "Alcohols, Phenols and Ethers":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=ijUVYJmra0o",
+    "Important_Questions": [
+     "Discuss the acidic nature of phenol.",
+     "Write the reactions of alcohols with Lucas reagent.",
+     "Explain the Williamson ether synthesis."
+      ]
+    },
+ "Aldehydes, Ketones and Carboxylic Acids":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=9rU3L5RvblI",
+    "Important_Questions": [
+     "Discuss the nucleophilic addition reactions of aldehydes and ketones.",
+      "What is Cannizzaro reaction? Explain with mechanism.",
+      "Explain the acidity of carboxylic acids."
+      ]
+    },
+ "Amines":{
+      "YouTube_Link": "https://www.youtube.com/watch?v=SlJvYZ29EJU",
+      "Important_Questions": [
+        "Explain the Hoffmann bromamide reaction.",
+        "Discuss the basicity of amines in aqueous solution.",
+        "What is diazotization? Give its significance."
+      ]
+    },
+ "Biomolecules":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=9NNZ_izxf1Q",
+   "Important_Questions": [
+     "What are enzymes? Discuss their mechanism of action.",
+     "Explain the structure of proteins and types.",
+     "Discuss the classification of carbohydrates."
+      ]
+    },
+ "Polymers":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=WHzANy_UfTA",
+    "Important_Questions": [
+     "Explain the types of polymers with examples.",
+     "What is condensation polymerization? Give examples.",
+      "Discuss the structure and uses of bakelite and nylon."
+      ]
+    },
+ "Chemistry in Everyday Life":{
+   "YouTube_Link": "https://www.youtube.com/watch?v=78oTkuFVfbE",
+    "Important_Questions": [
+     "Explain the role of drugs as analgesics and antipyretics.",
+     "Discuss the cleansing action of soaps and detergents.",
+     "What are food preservatives? Give examples."
+      ]
+    },
+  
+  "Physical World": {
+    "video": "https://www.youtube.com/watch?v=e154t-hfyRw",
+   "important_questions": [
+      "What is the scope and excitement of physics?",
+      "Discuss the relationship of physics with technology and society.",
+      "What are the fundamental forces in nature?"
+      ]
+    },
+    
+  "Units and Measurements":{
+   "video": "https://www.youtube.com/watch?v=UuzZYVRcemY&list=PLF_7kfnwLFCFFKkWI8iRKE2RW7-orWJ2N",
+    "important_questions": [
+      "Define SI units and explain their significance.",
+     "What is dimensional analysis and how is it used?",
+     "Explain the concept of significant figures and rounding off."
+      ]
+    },
+  "Motion in a Straight Line":{
+   "video": "https://www.youtube.com/watch?v=XIJAZM5G5Fg&list=PLF_7kfnwLFCHamOEHrFDSVoI6wszQQheq",
+   "important_questions": [
+     "Differentiate between distance and displacement.",
+     "Derive equations of motion for uniformly accelerated motion.",
+      "Explain the concept of relative velocity."
+      ]
+    },
+ "Motion in a Plane":{
+   "video": "https://www.youtube.com/watch?v=iUi1M7YkDe4&list=PLF_7kfnwLFCF4lrm3ddxejkzC1_A1FUiu",
+    "important_questions": [
+     "Define vector addition and subtraction.",
+     "Explain projectile motion and derive its equations.",
+     "Discuss uniform circular motion and its characteristics."
+      ]
+    },
+  "Laws of Motion":{
+    "video": "https://www.youtube.com/watch?v=YzxUZzMrlfQ&list=PLF_7kfnwLFCGcF1IhVgTiZ-Sf0pnKIOub",
+    "important_questions": [
+      "State and explain Newton's three laws of motion.",
+     "What is the law of conservation of momentum?",
+      "Discuss the concept of friction and its types."
+      ]
+    },
+ "Work, Energy and Power":{
+   "video": "https://www.youtube.com/watch?v=65Ytcr-KweQ&list=PLF_7kfnwLFCFS0k0WNHuTvjRxJFKQK5qr",
+    "important_questions": [
+      "Define work and derive the work-energy theorem.",
+      "Differentiate between kinetic and potential energy.",
+     "Explain the concept of power and its units."
+      ]
+    },
+  "System of Particles and Rotational Motion":{
+   "video": "https://www.youtube.com/watch?v=Ak5uS3B8Gj0&list=PLhJuVeTJGsvjf5rLBeWi59q9ESmpZiWKi",
+   "important_questions": [
+     "Define center of mass and its significance.",
+     "Explain torque and angular momentum.",
+     "Discuss the moment of inertia and its applications."
+      ]
+    },
+  "Gravitation":{
+    "video": "https://www.youtube.com/watch?v=4K7cRxXuQ_k&list=PLF_7kfnwLFCEwyxzG-rg2uYeYA2q1S2d8",
+    "important_questions": [
+     "State and explain Newton's law of gravitation.",
+     "What is acceleration due to gravity and how does it vary?",
+      "Define escape velocity and derive its expression."
+      ]
+  },
+  "Mechanical Properties of Solids":{
+   "video": "https://www.youtube.com/watch?v=4r_Rw6wMdjo&list=PLF_7kfnwLFCE6pZ2WaehG-8yhEaEjP4dB",
+    "important_questions": [
+     "Define stress and strain and their types.",
+     "Explain Hooke's law and its applications.",
+     "Discuss the concept of elastic modulus."
+      ]
+    },
+ "Mechanical Properties of Fluids":{
+   "video": "https://www.youtube.com/watch?v=CBfy2JbUBnQ",
+   "important_questions": [
+      "Define pressure and its measurement in fluids.",
+      "Explain Pascal's law and its applications.",
+      "Discuss the concept of viscosity and surface tension."
+      ]
+    },
+ "Thermal Properties of Matter":{
+      "video": "https://www.youtube.com/watch?v=zpOK4wjC4h4&list=PLF_7kfnwLFCFXX6N28304Ww_gUjh1Qtir",
+      "important_questions": [
+        "Define heat capacity and specific heat.",
+        "Explain the concept of thermal expansion.",
+        "Discuss the modes of heat transfer."
+      ]
+    },
+ "Thermodynamics(physics)":{
+   "video": "https://www.youtube.com/watch?v=d64219dEwXk&list=PLF_7kfnwLFCFPfN4TGeJt1PQpJd3MG6Zz",
+   "important_questions": [
+     "State the first law of thermodynamics and its applications.",
+      "Define isothermal and adiabatic processes.",
+      "Explain the concept of entropy and the second law of thermodynamics."
+      ]
+    },
+  "Kinetic Theory":{
+    "video": "https://www.youtube.com/watch?v=5S5Wu7GG2JI&list=PLWyo83LGgCHrCQrXuyMcOA72jQ0aawD32",
+   "important_questions": [
+     "Explain the assumptions of kinetic theory of gases.",
+     "Derive the expression for pressure exerted by an ideal gas.",
+      "Discuss the concept of mean free path."
+      ]
+    },
+ "Oscillations":{
+    "video": "https://www.youtube.com/watch?v=mphn5DiugP4&list=PLF_7kfnwLFCEvhpUaPoDQvhPwug0aZ1R4",
+    "important_questions": [
+      "Define simple harmonic motion and its characteristics.",
+     "Derive the equation of motion for a simple pendulum.",
+     "Explain the concepts of damping and resonance."
+      ]
+    },
+  "Waves":{
+    "video": "https://www.youtube.com/watch?v=PAboWtPs8f4&list=PLF_7kfnwLFCEp1eygWPhgPI6A9th2Fw-S",
+   "important_questions": [
+      "Differentiate between transverse and longitudinal waves.",
+      "Explain the principle of superposition of waves.",
+      "Discuss the formation of standing waves and resonance."
+      ]
+    }
+}
+

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video & Questions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <h2 class="welcome">Welcome, {{ username }}!</h2>
+        <a class="logout" href="{{ url_for('logout') }}">Logout</a>
+    </div>
+
+    <!-- Topic Input Section -->
+    <div class="topic-section">
+        <label>Enter a Topic:</label>
+        <input type="text" id="topicInput" placeholder="Enter The Topic">
+        <button onclick="getData()">Get Video & Questions</button>
+    </div>
+
+    <!-- Display Result -->
+    <div id="result"></div>
+
+    <!-- Chat Section -->
+    <div id="chat-container">
+        <div id="messages" style="min-height: 200px; margin-top: 20px; background: white; padding: 10px; border-radius: 5px; overflow-y: auto;"></div>
+        
+        <div style="display: flex; margin-top: 10px;">
+           <textarea 
+    id="user-input" 
+    rows="5" 
+    placeholder="Type your message here..."
+></textarea>
+        </div>
+    </div>
+    <button id="send-btn" style="margin-left: 10px;width:200px">Send</button>
+
+    <!-- Get Video & Questions Script -->
+    <script>
+        async function getData() {
+            const topic = document.getElementById("topicInput").value;
+            const response = await fetch("/get_data", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ topic })
+            });
+
+            const data = await response.json();
+            const resultDiv = document.getElementById("result");
+            resultDiv.innerHTML = "";
+
+            if (response.ok) {
+                resultDiv.innerHTML += `<p><strong>Video:</strong> <a href="${data.video}" target="_blank">${data.video}</a></p>`;
+                resultDiv.innerHTML += `<p><strong>Questions:</strong></p><ul>` +
+                    data.important_questions.map(q => `<li>${q}</li>`).join('') + `</ul>`;
+            } else {
+                resultDiv.innerHTML = `<p style="color:red;">${data.error}</p>`;
+            }
+        }
+    </script>
+
+    <!-- Chatbot Script -->
+    <script>
+        const sendBtn = document.getElementById('send-btn');
+        const userInput = document.getElementById('user-input');
+        const messagesDiv = document.getElementById('messages');
+
+        sendBtn.onclick = async () => {
+            const message = userInput.value.trim();
+            if (!message) return;
+
+            messagesDiv.innerHTML += `<div class="user">You: ${message}</div>`;
+            userInput.value = '';
+
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message })
+            });
+
+            const data = await response.json();
+            messagesDiv.innerHTML += `<div class="bot">Bot: ${data.reply}</div>`;
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        };
+    </script>
+</body>
+</html>
